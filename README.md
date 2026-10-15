@@ -75,7 +75,7 @@ Compatibility depends on the Minecraft version, mod version, and resource-loadin
 If you encounter a missing or incorrectly displayed texture, please include:
 
 - Minecraft version.
-- Thaumcraft 4 Reforged version.
+- [Thaumcraft 4 Reforged version](https://github.com/notlikethiss/thaumcraft-4-reforged).
 - Resource pack version.
 - A screenshot of the affected texture, if possible.
 - Relevant log output, if available.
