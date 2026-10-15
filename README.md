@@ -68,14 +68,12 @@ The roadmap may change as testing and development progress.
 
 ## 🧪 Compatibility and Testing
 
-Thaumful 32x is intended for use with **Thaumcraft 4 Reforged**.
-
-Compatibility depends on the Minecraft version, mod version, and resource-loading implementation. Check the release notes and test the pack in your specific setup.
+Thaumful 32x is intended for use with [**Thaumcraft 4 Reforged**](https://github.com/notlikethiss/thaumcraft-4-reforged).
 
 If you encounter a missing or incorrectly displayed texture, please include:
 
 - Minecraft version.
-- [Thaumcraft 4 Reforged version](https://github.com/notlikethiss/thaumcraft-4-reforged).
+- Thaumcraft 4 Reforged version.
 - Resource pack version.
 - A screenshot of the affected texture, if possible.
 - Relevant log output, if available.
